@@ -26,12 +26,6 @@ Machine Learning · Deep Learning · Generative Models · Game Development
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
 
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ZeyadOmar27&theme=radical&hide_border=true&cache_seconds=86400)
-![](https://streak-stats.demolab.com/?user=ZeyadOmar27&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadOmar27&theme=radical&hide_border=true&layout=compact&cache_seconds=86400)
-
 ---
 
 > *"Always curious, always building."*
