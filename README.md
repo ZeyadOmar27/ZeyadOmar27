@@ -18,7 +18,7 @@ Machine Learning · Computer Vision · Generative Models · Game Development
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,sklearn,pytorch,tensorflow)](https://skillicons.dev)
 
 ---
 
